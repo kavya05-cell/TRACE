@@ -1,0 +1,6 @@
+seed,actual_drift,detected,delay,candidate_model,false_alarms_before_drift
+42,15000,15231,231,SRP,1
+123,15000,15103,103,HT,2
+456,15000,15327,327,HT,2
+789,15000,15455,455,HAT,2
+2026,15000,15103,103,HT,2

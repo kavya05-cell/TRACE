@@ -1,0 +1,11 @@
+seed,phase,ensemble_prequential_accuracy
+42,before_drift,0.979
+42,after_drift,0.9814
+123,before_drift,0.9851
+123,after_drift,0.984
+2025,before_drift,0.9823
+2025,after_drift,0.9875
+7,before_drift,0.9734
+7,after_drift,0.9861
+99,before_drift,0.988
+99,after_drift,0.9833

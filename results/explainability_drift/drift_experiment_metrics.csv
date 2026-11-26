@@ -1,0 +1,4 @@
+evaluation,n,accuracy,precision,recall,f1
+pre_model_on_pre_distribution,1000,0.966,0.9363295880149812,1.0,0.9671179883945841
+pre_model_on_post_distribution,1000,0.951,0.9214953271028037,0.986,0.9526570048309178
+adapted_model_on_post_distribution,1000,0.953,0.924953095684803,0.986,0.9545014520813165

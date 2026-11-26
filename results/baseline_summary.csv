@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1,Latency_ms_per_instance,Model_size_KB
+Hoeffding Tree,0.9182,0.8838,0.9497,0.9156,0.024,119.3
+Hoeffding Adaptive Tree,0.9412,0.9411,0.9323,0.9367,0.472,8794.8
+Adaptive Random Forest,0.975,0.9894,0.9566,0.9727,0.245,649.8
+Online Naive Bayes,0.5758,0.9977,0.0913,0.1674,0.511,917.0
+Streaming kNN,0.9767,0.9745,0.9756,0.9751,3.032,1326.3

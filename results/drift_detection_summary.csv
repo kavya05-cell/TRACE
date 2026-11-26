@@ -1,0 +1,2 @@
+actual_drift_point,detection_indices,false_alarm_count,false_alarm_indices,post_drift_detection_count,post_drift_detection_indices,first_post_drift_detection,detection_delay
+15000,"[15047, 28263]",0,[],2,"[15047, 28263]",15047,47

@@ -1,0 +1,4 @@
+model,pre_phase_prequential_accuracy,pre_phase_rolling_accuracy,pre_phase_weight,post_phase_prequential_accuracy,post_phase_rolling_accuracy,post_phase_weight
+ARF,0.991,0.996,0.3456400478155328,0.9875,0.988,0.34228067824076236
+HAT,0.9771,0.982,0.3222726444951992,0.9762,0.98,0.3288596608796189
+Hoeffding Tree,0.9711,0.988,0.332087307689268,0.9815,0.98,0.3288596608796189
